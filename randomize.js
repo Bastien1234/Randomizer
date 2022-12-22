@@ -7,4 +7,4 @@ setInterval(() => {
 
     // Set random variable
     h1.innerHTML = n;
-}, 3000)
+}, 2000)
